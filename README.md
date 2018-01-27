@@ -14,9 +14,9 @@ Welcome to the future of Open Source Academics, consumption and contribution of 
    - [2.3) Workshops](https://github.com/osacademics/workshops/)
 - [3) Get Involved](get-involved/README.md)
    - [3.1) Contribution Guidelines](get-involved/contribution-guidelines.md)
-- [4) Contributors](contributors/README.md]
+- [4) Contributors](contributors/README.md)
    - [4.1) Steering Committee](contributors/steering-committee.md)
-   - [4.2) Partners](contributors/partners.md
+   - [4.2) Partners](contributors/partners.md)
    - [4.3) The Team](contributors/team.md)
 
 ## About
@@ -24,7 +24,7 @@ Welcome to the future of Open Source Academics, consumption and contribution of 
 Following the IEEE Curriculum guidelines, this repository is geared toward facilitating the certification, industry and community involvement of open source electrical, software, and computer engineering curriculum and materials in an open source development environment.
 
 - [Executive Summary]()
-- [Academics]()
+- [University](https://github.com/osacademics/university))
 - [Training](https://github.com/osacademics/training/)
 - [Workshops](https://github.com/osacademics/workshops/)
 
