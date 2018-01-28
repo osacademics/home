@@ -19,10 +19,6 @@ Welcome to the future of Open Source Academics, consumption and contribution of 
    - [4.2) Partners](contributors/partners.md)
    - [4.3) The Team](contributors/team.md)
 
-### Contribution Policy
-
-In progress...
-
 ## Lead Maintainer
 
 - Robert Wolff, 96Boards Community Manager - Linaro / 96Boards
