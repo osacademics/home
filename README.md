@@ -2,7 +2,7 @@
 
 Welcome to the future of Open Source Academics, consumption and contribution of open source curriculum and course materials.
 
-| Home | University | Training | Workshops |
+| Home | [University](https://github.com/osacademics/university/) | [Training](https://github.com/osacademics/training) | [Workshops](https://github.com/osacademics/workshop/) |
 
 ## Table of Contents
 
