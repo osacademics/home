@@ -31,7 +31,9 @@ Coming soon...
 
 ## Infinity Committee
 
-Coming soon...
+The **infinity committee** joins multiple groups of people appointed to specific functions under the OSA umbrella. Currently consisting of Industry, Academic and Community representatives, each sub-committee will be responsible for moving their sectors forward within the initiative. Joint by common goals set by OSA, each committee must act on behalf of the initiative, this is to drive both the success of the other committees and OSA as a whole.
+
+<img src="https://github.com/osacademics/home/blob/master/assets/images/infinity-committee.png?raw=true" data-canonical-src="https://github.com/osacademics/home/blob/master/assets/images/infinity-committee.png?raw=true" width="200" height="130" />
 
 ## Incentives
 
@@ -40,5 +42,3 @@ Coming soon...
 ## Roadmap
 
 Coming soon...
-
-consumption and contribution of open source curriculum and course materials. Following the IEEE/ACM Curriculum guidelines, this repository is geared toward facilitating the certification, industry and community involvement of open source electrical, software, and computer engineering curriculum and materials in an open source development environment.
