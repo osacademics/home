@@ -4,7 +4,7 @@ Open Source Academics (OSA) aims to facilitate and expand the educational experi
 
 ## Motivation
 
-The lack of education on a global scale shows an inversely correlated trend for many of the world’s greatest problems[1]. From environmental decline to personal health and even war, an educated population leads to a decrease in negatively impacting events. OSA believes that free and fruitful STEAM (Science, Technology, Engineer, Arts, and Mathematics) educational content should belong to anyone with the ability to access digital assets. Built upon a fair, collaborative and welcoming platform, OSA facilitates contribution and consumption of everything under its umbrella. The OSA platform aims to incentivize well established institutions and industry while also providing a paradigm shift in educational standards for underserved regions of the world. Fragmented, speculative learning materials and pay to play platforms may also see a benefit in the collaborative and open environment provided by OSA.
+The lack of education on a global scale shows an inversely correlated trend for many of the world’s greatest problems[1]. From environmental decline to personal health and even war, an educated population leads to a decrease in negatively impacting events. OSA believes that free and fruitful STEAM (Science, Technology, Engineering, Arts, and Mathematics) educational content should belong to anyone with the ability to access digital assets. Built upon a fair, collaborative and welcoming platform, OSA facilitates contribution and consumption of everything under its umbrella. The OSA platform aims to incentivize well established institutions and industry while also providing a paradigm shift in educational standards for underserved regions of the world. Fragmented, speculative learning materials and pay to play platforms may also see a benefit in the collaborative and open environment provided by OSA.
 
 ## Our Mission
 
@@ -17,15 +17,29 @@ For the time being, OSA will live in a version controlled environment on Github[
 
 Independent parties with an interest in OSA who stand to gain from its success will hear by be considered as stakeholders. There will be three separate but equally represented stakeholder groups (or committees). Each group will interact with OSA differently.
 
-## Industry
+### Industry
 
-Coming soon...
+Industry partner representation will vary based on [OSA membership](). Those partners who choose to have representation on the Inifinity Committee will see the following benefits:
 
-## Academia
+- Participation in all steering committee activities
+- Voice and vote on direction of initiative
+- Brand recognition and academic adoption/acceptance of partner technologies
+- Content creation and adoption
+- Global academic reach
+- Direct bridge to Academic Committee
+- Access to Academic pool of exemplary students
+- more... (please see membership sections)
 
-Coming soon...
+### Academia
 
-## Community
+Academic partner representation will vary based on [OSA membership](). Those partners who choose to have representation on the Infinity Committee will see the following benefits:
+
+- Participation in all steering committee activities
+- Voice and vote on direction of initiative
+- Industry visibility and channel to industry engagement
+- Incentivized content creation around current technologies used in industry
+
+### Community
 
 Coming soon...
 
@@ -37,7 +51,10 @@ The **infinity committee** joins multiple groups of people appointed to specific
 
 ## Incentives
 
-Coming soon...
+| Industry                         | OSA           | Academia              |
+|:---------------------------------|:--------------|:----------------------|
+| Post Bounties -->                | Bounty Board  | <-- Consume Bounties  |
+| Incentivized Content Request --> | Content Board | <-- Content Delivery  |
 
 ## Roadmap
 
