@@ -14,6 +14,7 @@ Welcome to the future of Open Source Academics, consumption and contribution of 
    - [2.1) University](https://github.com/osacademics/university/)
    - [2.2) Training](https://github.com/osacademics/training/)
    - [2.3) Workshops](https://github.com/osacademics/workshops/)
+   - [2.4) Bounties](https://github.com/osacademics/bounties)
 - [3) Get Involved](get-involved/README.md)
    - [3.1) Contribution Guidelines](get-involved/contribution-guidelines.md)
 - [4) Contributors](contributors/README.md)
