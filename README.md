@@ -24,5 +24,5 @@ Welcome to the future of Open Source Academics, consumption and contribution of 
 
 ## Lead Maintainer
 
-- Robert Wolff, 96Boards Community Manager - Linaro / 96Boards
+- Robert (Fixxxxxxer)
 
